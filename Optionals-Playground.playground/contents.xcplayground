@@ -3,5 +3,6 @@
     <pages>
         <page name='Optional_Type'/>
         <page name='Custom_If_Let'/>
+        <page name='Custom_Guard_Let'/>
     </pages>
 </playground>
