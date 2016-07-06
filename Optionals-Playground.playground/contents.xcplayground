@@ -2,7 +2,9 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='Optional_Type'/>
-        <page name='Custom_If_Let'/>
+        <page name='Custom_If_Let_1'/>
+        <page name='Custom_If_Let_2'/>
+        <page name='Custom_If_Let_3'/>
         <page name='Custom_Guard_Let'/>
     </pages>
 </playground>
